@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GamesLibrary</string>
+    <string name="search">Search Menu</string>
+    <string name="search_hint">Masukkan Nama Game</string>
+    <string name="title_games">Title Games</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="platform">Platform</string>
+</resources>
+
